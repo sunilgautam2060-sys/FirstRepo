@@ -1,1 +1,2 @@
-# FirstRepo
+# requirements: node.js interpreter and npm(node package manager) 
+# required package : express (download through command: npm install express ) , it will install the required libraries and configuration files for express at:NODE_Modules folder , To use Express your NODE_Modules folders must be inside your project folder ,so that source code which includes express  can fetch required libraries and othertoolkits to run express from that NODE_Modules folder which is present at your project folder . 
